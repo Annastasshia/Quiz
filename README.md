@@ -9,3 +9,4 @@ Things still being workshopped:
 
 Current Issues: 
  - for loop asycronous loading of array before user selection
+ - multiple outputs of answer reply after initial question
